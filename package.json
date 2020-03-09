@@ -1,0 +1,19 @@
+{
+    "name": "figures",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "Displaying related images and text.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KloakIT/carousel.git"
+    },
+    "author": {
+        "name": "Kloak Information Technologies Inc.",
+        "email": "info@Ckloak.app"
+    },
+    "bugs": {
+      "url": "https://github.com/KloakIT/carousel/issues"
+    },
+    "homepage": "https://www.kloak.app"
+
+}
